@@ -31,7 +31,7 @@
     "base": "https://github.com/senegalouvert-datasets/senegal-villages",
     "resources": [
         {
-            "path": "data/villages.geojson",
+            "path": "/data/villages.geojson",
             "name": "senegal-villages",
             "format": "geojson",
             "mediatype": "application/json"
