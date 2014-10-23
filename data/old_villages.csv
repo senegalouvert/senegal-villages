@@ -1,13 +1,13 @@
-region,departement,arrondissement,commune,coordination,langue,X,Y
-Thies,Thies,Thies,Thies,Dakar,Wolof,292242,1636408.1
-Dakar,Dakar,Dakar,Dakar,Dakar,Wolof,236286,1630724
-Dakar,Dakar,Dakar,Dakar,Dakar,Wolof,236286,1630724
-Dakar,Rufique,Rufique,Dakar,Dakar,Wolof,255394,1628176.3
-Dakar,Guediawaye,Guediawaye,Guediawaye,Dakar,Wolof,242846,1634206
-Dakar,Guediawaye,Guediawaye,Guediawaye,Dakar,Wolof,242846,1634206
-Saint-Louis,Saint-Louis,RAO,GANDON,Fouta,Wolof,336812,1748122
-Matam,Matam ,Ogo ,Nabadji -Civol ,Fouta,Wolof,669794,1735282
-Matam,Matam ,Ogo ,Nabadji -Civol ,Fouta,Wolof,674430,1734893
+region,departement,arrondissement,commune,coordination,langue,X,Y,latitude,longitude
+Thies,Thies,Thies,Thies,Dakar,Wolof,292242,1636408.1,15.283809,-16.983574
+Dakar,Dakar,Dakar,Dakar,Dakar,Wolof,236286,1630724,14.902908,-17.346577
+Dakar,Dakar,Dakar,Dakar,Dakar,Wolof,236286,1630724,14.902908,-17.346577
+Dakar,Rufique,Rufique,Dakar,Dakar,Wolof,255394,1628176.3,14.748619,-17.267496
+Dakar,Guediawaye,Guediawaye,Guediawaye,Dakar,Wolof,242846,1634206,14.850652,-17.383730
+Dakar,Guediawaye,Guediawaye,Guediawaye,Dakar,Wolof,242846,1634206,14.850652,-17.383730
+Saint-Louis,Saint-Louis,RAO,GANDON,Fouta,Wolof,336812,1748122,16.204383,-16.452309
+Matam,Matam ,Ogo ,Nabadji -Civol ,Fouta,Wolof,669794,1735282,15.794442,-13.326845
+Matam,Matam ,Ogo ,Nabadji -Civol ,Fouta,Wolof,674430,1734893,15.794442,-13.326845
 Matam,Matam ,Agnam civol,Dabiya Odedji ,Fouta,Wolof,643513,1744427
 Matam,Matam ,Ogo ,Bokidiawe ,Fouta,Wolof,659876,1749698
 Saint-Louis,Podor ,Sadel,Mbolo Birame ,Fouta,Wolof,603950,1763190
