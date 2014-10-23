@@ -9,13 +9,15 @@
         "arrondissement": "Thies",
         "commune": "Thies",
         "coordination": "Dakar",
-        "langue": "Wolof"
+        "langue": "Wolof",
+        "X": "292242",
+        "Y": "1636408.1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.999791, 
-          -15.61632
+          -16.983574,
+          15.283809
         ]
       }
     },
@@ -27,13 +29,15 @@
         "arrondissement": "Dakar",
         "commune": "Dakar",
         "coordination": "Dakar",
-        "langue": "Wolof"
+        "langue": "Wolof",
+        "X": "236286",
+        "Y": "1630724"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.999791, 
-          -15.61632
+          -17.346577,
+          14.902908
         ]
       }
     },
@@ -45,13 +49,475 @@
         "arrondissement": "Dakar",
         "commune": "Dakar",
         "coordination": "Dakar",
-        "langue": "Wolof"
+        "langue": "Wolof",
+        "X": "236286",
+        "Y": "1630724"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.297582, 
-          -14.715380
+          -17.346577,
+          14.902908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Dakar",
+        "departement": "Rufique",
+        "arrondissement": "Rufique",
+        "commune": "Dakar",
+        "coordination": "Dakar",
+        "langue": "Wolof",
+        "X": "255394",
+        "Y": "1628176.3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.267496,
+          14.748619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Dakar",
+        "departement": "Guediawaye",
+        "arrondissement": "Guediawaye",
+        "commune": "Guediawaye",
+        "coordination": "Dakar",
+        "langue": "Wolof",
+        "X": "242846",
+        "Y": "1634206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.38373,
+          14.850652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Dakar",
+        "departement": "Guediawaye",
+        "arrondissement": "Guediawaye",
+        "commune": "Guediawaye",
+        "coordination": "Dakar",
+        "langue": "Wolof",
+        "X": "242846",
+        "Y": "1634206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.38373,
+          14.850652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Saint-Louis",
+        "departement": "Saint-Louis",
+        "arrondissement": "RAO",
+        "commune": "GANDON",
+        "coordination": "Fouta",
+        "langue": "Wolof",
+        "X": "336812",
+        "Y": "1748122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.452309,
+          16.204383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Matam",
+        "departement": "Matam ",
+        "arrondissement": "Ogo ",
+        "commune": "Nabadji -Civol ",
+        "coordination": "Fouta",
+        "langue": "Wolof",
+        "X": "669794",
+        "Y": "1735282"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.326845,
+          15.794442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Matam",
+        "departement": "Matam ",
+        "arrondissement": "Ogo ",
+        "commune": "Nabadji -Civol ",
+        "coordination": "Fouta",
+        "langue": "Wolof",
+        "X": "674430",
+        "Y": "1734893"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.326845,
+          15.794442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Matam",
+        "departement": "Matam ",
+        "arrondissement": "Agnam civol",
+        "commune": "Dabiya Odedji ",
+        "coordination": "Fouta",
+        "langue": "Wolof",
+        "X": "643513",
+        "Y": "1744427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.515828,
+          15.915465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Matam",
+        "departement": "Matam ",
+        "arrondissement": "Ogo ",
+        "commune": "Bokidiawe ",
+        "coordination": "Fouta",
+        "langue": "Wolof",
+        "X": "659876",
+        "Y": "1749698"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.326845,
+          15.794442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Saint-Louis",
+        "departement": "Podor ",
+        "arrondissement": "Sadel",
+        "commune": "Mbolo Birame ",
+        "coordination": "Fouta",
+        "langue": "Wolof",
+        "X": "603950",
+        "Y": "1763190"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.423812,
+          16.426892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Saint-Louis",
+        "departement": "Podor ",
+        "arrondissement": "Sadel",
+        "commune": "Mbolo Birame ",
+        "coordination": "Fouta",
+        "langue": "Wolof",
+        "X": "615237",
+        "Y": "1775451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.778057,
+          17.422994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Saint-Louis",
+        "departement": "Podor ",
+        "arrondissement": "Sadel",
+        "commune": "Mbolo Birame ",
+        "coordination": "Fouta",
+        "langue": "Wolof",
+        "X": "616294",
+        "Y": "1767148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.778057,
+          17.422994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Saint-Louis",
+        "departement": "Podor ",
+        "arrondissement": "Thile Boubacar",
+        "commune": "Ndiayene Pendaw",
+        "coordination": "Fouta",
+        "langue": "Wolof",
+        "X": "510129",
+        "Y": "1825575"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.092018,
+          16.518165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Saint-Louis",
+        "departement": "Podor",
+        "arrondissement": "Gamadji Sahre",
+        "commune": "Gamadji Sahre",
+        "coordination": "Fouta",
+        "langue": "Pulaar",
+        "X": "541004",
+        "Y": "1833802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.715618,
+          16.519874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Saint-Louis",
+        "departement": "Podor",
+        "arrondissement": "Gamadji Sahre",
+        "commune": "Gamadji Sahre",
+        "coordination": "Fouta",
+        "langue": "Pulaar",
+        "X": "639393",
+        "Y": "1780833"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.715618,
+          16.519874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Saint-Louis",
+        "departement": "Podor",
+        "arrondissement": "Gamadji Sahre",
+        "commune": "Gamadji Sahre",
+        "coordination": "Fouta",
+        "langue": "Pulaar",
+        "X": "547185",
+        "Y": "1826132.7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.715618,
+          16.519874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Saint-Louis",
+        "departement": "Podor",
+        "arrondissement": "Gamadji Sahre",
+        "commune": "Gamadji Sahre",
+        "coordination": "Fouta",
+        "langue": "Pulaar",
+        "X": "552602",
+        "Y": "1826132.7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.715618,
+          16.519874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Saint-Louis",
+        "departement": "Podor",
+        "arrondissement": "Gamadji Sahre",
+        "commune": "Gamadji Sahre",
+        "coordination": "Fouta",
+        "langue": "Pulaar",
+        "X": "549972",
+        "Y": "1825370"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.715618,
+          16.519874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Saint-Louis",
+        "departement": "Podor",
+        "arrondissement": "Gamadji Sahre",
+        "commune": "Gamadji Sahre",
+        "coordination": "Fouta",
+        "langue": "Pulaar",
+        "X": "552602",
+        "Y": "1823707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.715618,
+          16.519874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Saint-Louis",
+        "departement": "Podor",
+        "arrondissement": "Gamadji Sahre",
+        "commune": "Gamadji Sahre",
+        "coordination": "Fouta",
+        "langue": "Pulaar",
+        "X": "545946",
+        "Y": "1829032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.715618,
+          16.519874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Saint-Louis",
+        "departement": "Podor",
+        "arrondissement": "Gamadji Sahre",
+        "commune": "Gamadji Sahre",
+        "coordination": "Fouta",
+        "langue": "Pulaar",
+        "X": "547185",
+        "Y": "1826132.7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.715618,
+          16.519874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Saint-Louis",
+        "departement": "Podor",
+        "arrondissement": "Gamadji Sahre",
+        "commune": "Gamadji Sahre",
+        "coordination": "Fouta",
+        "langue": "Pulaar",
+        "X": "531061.8",
+        "Y": "1826132.7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.715618,
+          16.519874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Saint-Louis",
+        "departement": "Podor",
+        "arrondissement": "Gamadji Sahre",
+        "commune": "Gamadji Sahre",
+        "coordination": "Fouta",
+        "langue": "Pulaar",
+        "X": "547185",
+        "Y": "1833089"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.715618,
+          16.519874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Saint-Louis",
+        "departement": "Podor ",
+        "arrondissement": "Thile Boubacar",
+        "commune": "Ndiayene Pendaw",
+        "coordination": "Fouta",
+        "langue": "Pulaar",
+        "X": "508301",
+        "Y": "1824669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.046645,
+          16.500883
         ]
       }
     }
