@@ -34,66 +34,7 @@
             "path": "data/villages.geojson",
             "name": "senegal-villages",
             "format": "geojson",
-            "mediatype": "application/json",
-            "schema": {
-                "properties": [
-                    {
-                        "name": "id",
-                        "description": "Record ID.",
-                        "type": "integer"
-                    },
-                    {
-                        "name": "code",
-                        "description": "Belgian traffic sign code.",
-                        "web": "http://wiki.openstreetmap.org/wiki/Road_signs_in_Belgium",
-                        "type": "string"
-                    },
-                    {
-                        "name": "text_on_sign",
-                        "description": "Text on the traffic sign.",
-                        "type": "string"
-                    },
-                    {
-                        "name": "text_below_sign",
-                        "description": "Text on the sub sign.",
-                        "type": "string"
-                    },
-                    {
-                        "name": "street",
-                        "description": "Street in which the traffic sign was found.",
-                        "type": "string"
-                    },
-                    {
-                        "name": "facing",
-                        "description": "Wind direction in which the traffic sign is facing.",
-                        "type": "string",
-                        "values": ["N","E","S","W"]
-                    },
-                    {
-                        "name": "verified",
-                        "description": "True if the existence of the traffic sign has been verified on location.",
-                        "type": "boolean"
-                    },
-                    {
-                        "name": "marker-size",
-                        "description": "Size of the marker, as per the simplestyle spec.",
-                        "web": "https://help.github.com/articles/mapping-geojson-files-on-github#styling-features",
-                        "type": "string"
-                    },
-                    {
-                        "name": "marker-color",
-                        "description": "RBG hex colour of the marker, as per the simplestyle spec.",
-                        "web": "https://help.github.com/articles/mapping-geojson-files-on-github#styling-features",
-                        "type": "string"
-                    },
-                    {
-                        "name": "marker-symbol",
-                        "description": "Marker icon, as per the simplestyle spec.",
-                        "web": "https://help.github.com/articles/mapping-geojson-files-on-github#styling-features",
-                        "type": "string"
-                    }
-                ]
-            }
+            "mediatype": "application/json"
         }
     ]
 }
