@@ -1,0 +1,467 @@
+region,departement,arrondissement,commune,coordination,langue,X,Y
+Thies,Thies,Thies,Thies,Dakar,Wolof,292242,1636408.1
+Dakar,Dakar,Dakar,Dakar,Dakar,Wolof,236286,1630724
+Dakar,Dakar,Dakar,Dakar,Dakar,Wolof,236286,1630724
+Dakar,Rufique,Rufique,Dakar,Dakar,Wolof,255394,1628176.3
+Dakar,Guediawaye,Guediawaye,Guediawaye,Dakar,Wolof,242846,1634206
+Dakar,Guediawaye,Guediawaye,Guediawaye,Dakar,Wolof,242846,1634206
+Saint-Louis,Saint-Louis,RAO,GANDON,Fouta,Wolof,336812,1748122
+Matam,Matam ,Ogo ,Nabadji -Civol ,Fouta,Wolof,669794,1735282
+Matam,Matam ,Ogo ,Nabadji -Civol ,Fouta,Wolof,674430,1734893
+Matam,Matam ,Agnam civol,Dabiya Odedji ,Fouta,Wolof,643513,1744427
+Matam,Matam ,Ogo ,Bokidiawe ,Fouta,Wolof,659876,1749698
+Saint-Louis,Podor ,Sadel,Mbolo Birame ,Fouta,Wolof,603950,1763190
+Saint-Louis,Podor ,Sadel,Mbolo Birame ,Fouta,Wolof,615237,1775451
+Saint-Louis,Podor ,Sadel,Mbolo Birame ,Fouta,Wolof,616294,1767148
+Saint-Louis,Podor ,Thile Boubacar,Ndiayene  Pendaw,Fouta,Wolof,510129,1825575
+Saint-Louis,Podor,Gamadji Sahre,Gamadji Sahre,Fouta,Pulaar,541004,1833802
+Saint-Louis,Podor,Gamadji Sahre,Gamadji Sahre,Fouta,Pulaar,639393,1780833
+Saint-Louis,Podor,Gamadji Sahre,Gamadji Sahre,Fouta,Pulaar,547185,1826132.7
+Saint-Louis,Podor,Gamadji Sahre,Gamadji Sahre,Fouta,Pulaar,552602,1826132.7
+Saint-Louis,Podor,Gamadji Sahre,Gamadji Sahre,Fouta,Pulaar,549972,1825370
+Saint-Louis,Podor,Gamadji Sahre,Gamadji Sahre,Fouta,Pulaar,552602,1823707
+Saint-Louis,Podor,Gamadji Sahre,Gamadji Sahre,Fouta,Pulaar,545946,1829032
+Saint-Louis,Podor,Gamadji Sahre,Gamadji Sahre,Fouta,Pulaar,547185,1826132.7
+Saint-Louis,Podor,Gamadji Sahre,Gamadji Sahre,Fouta,Pulaar,531061.8,1826132.7
+Saint-Louis,Podor,Gamadji Sahre,Gamadji Sahre,Fouta,Pulaar,547185,1833089
+Saint-Louis,Podor ,Thile Boubacar,Ndiayene  Pendaw,Fouta,Pulaar,508301,1824669
+Matam,Matam,Ogo,Bokidiawe ,Fouta,Pulaar,667814,1774583
+Matam,Matam,Ogo,Bokidiawe ,Fouta,Pulaar,673143,1771672
+Matam,Matam,Ogo,Bokidiawe ,Fouta,Pulaar,691457,1734894
+Matam,Matam,Ogo,Bokidiawe ,Fouta,Pulaar,670265,1776347
+Matam,Matam,Ogo,Bokidiawe ,Fouta,Pulaar,665974,1773702
+Matam,Matam,Ogo,Bokidiawe ,Fouta,Pulaar,673216,1774937
+Matam,Matam,Ogo,Bokidiawe ,Fouta,Pulaar,670265,1771672
+Matam,Matam,Ogo,Bokidiawe ,Fouta,Pulaar,666092,1777852
+Matam,Backel,Moudery,Moudery,Fouta,Soninke,601559,1795374
+Matam,Backel,Moudery,Moudery,Fouta,Soninke,755173,1669293
+Matam,Ranerou,Velingara (Ferlo),Oudalaye,Fouta,Pulaar,610031,1690793
+Matam,Ranerou,Velingara (Ferlo),Oudalaye,Fouta,Pulaar,635913,1690793
+Matam,Ranerou,Velingara (Ferlo),Oudalaye,Fouta,Pulaar,611599,1690943
+Matam,Ranerou,Velingara (Ferlo),Oudalaye,Fouta,Pulaar,639419,1690943
+Matam,Ranerou,Velingara (Ferlo),Oudalaye,Fouta,Pulaar,611599,1691415
+Matam,Ranerou,Velingara (Ferlo),Oudalaye,Fouta,Pulaar,635913,1694632
+Matam,Ranerou,Velingara (Ferlo),Oudalaye,Fouta,Pulaar,606150,1699155
+Matam,Ranerou,Velingara (Ferlo),Oudalaye,Fouta,Pulaar,608134,1693004
+Matam,Ranerou,Velingara (Ferlo),Oudalaye,Fouta,Pulaar,606150,1692359
+Matam,Ranerou,Velingara (Ferlo),Oudalaye,Fouta,Pulaar,644625,1699155
+Matam,Kanel ,Ouro Sidy ,Sinthiou Bamambe,Fouta,Pulaar,700571,1699593
+Matam,Kanel ,Ouro Sidy ,Sinthiou Bamambe,Fouta,Pulaar,711024,1694580
+Matam,Kanel ,Ouro Sidy ,Sinthiou Bamambe,Fouta,Pulaar,722403,1695581
+Matam,Kanel ,Ouro Sidy ,Sinthiou Bamambe,Fouta,Pulaar,713024,1694580
+Matam,Kanel ,Ouro Sidy ,Ouro Sidy ,Fouta,Pulaar,704894,1723469
+Matam,Kanel ,Bokiladji,Orkodiere,Fouta,Pulaar,717358,1691274
+Matam,Kanel ,Orkodiere,Bokiladji,Fouta,Pulaar,749476,1665039
+Matam,Backel,Moudery,Mouderi,Fouta,Soninke,758689,1666466
+Matam,Backel,Moudery,Mouderi,Fouta,Soninke,758689,1666466
+Matam,Kanel ,Ouro Sidy ,Ouro Sidy ,Fouta,Pulaar,701238,1707457
+Kaolack,Kaolack,Sibassor,Thiomby,Kaolack,Wolof,358139,1577625
+Kaolack,Kaolack,Sibassor,Thiomby,Kaolack,Wolof,357347,1575169
+Kaolack,Kaolack,Sibassor,Thiomby,Kaolack,Wolof,365925,1575614
+Kaolack,Kaolack,Sibassor,Thiomby,Kaolack,Wolof,363274,1579773
+Kaolack,Kaolack,Sibassor,Thiomby,Kaolack,Wolof,362575,1570319
+Kaolack,Kaolack,Sibassor,Thiomby,Kaolack,Wolof,366837,1573176
+Kaolack,Kaolack,Sibassor,Thiomby,Kaolack,Wolof,362943,1579593
+Kaolack,Kaolack,Sibassor,Thiomby,Kaolack,Wolof,354356,1575658
+Kaolack,Nioro,Paskoto,Paskoto,Kaolack,Pulaar,426599,1519194
+Kaolack,Nioro,Paskoto,Paskoto,Kaolack,Pulaar,414473,1523784
+Kaolack,Nioro,Paskoto,Paskoto,Kaolack,Pulaar,414939,1522232
+Kaolack,Nioro,Paskoto,Paskoto,Kaolack,Pulaar,409920,1523784
+Kaolack,Nioro,Paskoto,Paskoto,Kaolack,Pulaar,414473,1530746
+Kaolack,Nioro,Paskoto,Paskoto,Kaolack,Pulaar,408340,1525604
+Kaolack,Nioro,Paskoto,Paskoto,Kaolack,Pulaar,416385,1524388
+Kaolack,Nioro,Paskoto,Paskoto,Kaolack,Pulaar,412782,1528157
+Kaolack,Nioro,Paskoto,Paskoto,Kaolack,Pulaar,381401,1585664
+Kaolack,Nioro,Paskoto,Paskoto,Kaolack,Pulaar,418621,1521606
+Kaolack,Nioro,Medina Sabakh,Kaymor,Kaolack,Wolof,436513.5,1522171.5
+Kaolack,Nioro,Medina Sabakh,Kaymor,Kaolack,Wolof,436044,1525312
+Kaolack,Nioro,Medina Sabakh,Kaymor,Kaolack,Wolof,441601,1524616
+Kaolack,Nioro,Medina Sabakh,Kaymor,Kaolack,Wolof,438508,1520712
+Kaolack,Nioro,Medina Sabakh,Kaymor,Kaolack,Wolof,441601,1516938
+Kaolack,Nioro,Medina Sabakh,Kaymor,Kaolack,Wolof,440382,1516938
+Kaolack,Nioro,Medina Sabakh,Kaymor,Kaolack,Wolof,436624,1515257
+Kaolack,Nioro,Medina Sabakh,Kaymor,Kaolack,Wolof,434865,1520877
+Thies,Thies,Notto,Tassette,Kaolack,Wolof,299024,1615400
+Thies,Thies,Notto,Tassette,Kaolack,Wolof,299833,1613531
+Thies,Thies,Notto,Tassette,Kaolack,Wolof,296258,1612457
+Thies,Thies,Notto,Tassette,Kaolack,Wolof,291684,1602529
+Thies,Thies,Notto,Tassette,Kaolack,Wolof,294808,1609141
+Kaolack,Kaolack,Koumbal,Keur Baka,Kaolack,Wolof,397681.5,1541022.7
+Kaolack,Kaolack,Koumbal,Keur Baka,Kaolack,Wolof,405747,1545071
+Kaolack,Kaolack,Koumbal,Keur Baka,Kaolack,Wolof,404055,1529007
+Kaolack,Kaolack,Koumbal,Keur Baka,Kaolack,Wolof,385608,1544672
+Kaolack,Kaolack,Koumbal,Keur Baka,Kaolack,Wolof,388990,1545064
+Kaolack,Kaolack,Koumbal,Keur Baka,Kaolack,Wolof,405500,1543203
+Kaolack,Kaolack,Koumbal,Keur Baka,Kaolack,Wolof,391079,1547102
+Kaolack,Kaolack,Koumbal,Keur Baka,Kaolack,Wolof,405454,1538141
+Kaolack,Nioro,Paskoto,Paskoto,Kaolack,Wolof,405629,1531894
+Kaolack,Nioro,Paskoto,Paskoto,Kaolack,Wolof,416859,1534053
+Kaolack,Nioro,Paskoto,Paskoto,Kaolack,Wolof,412109,1525993
+Kaolack,Nioro,Paskoto,Paskoto,Kaolack,Wolof,413176,1529976
+Kaolack,Nioro,Paskoto,Paskoto,Kaolack,Wolof,403631,1546254
+Kaolack,Nioro,Paskoto,Paskoto,Kaolack,Wolof,421602,1514223
+Kaolack,Nioro,Paskoto,Paskoto,Kaolack,Wolof,420141,1516465
+Kaolack,Nioro,Paskoto,Paskoto,Kaolack,Wolof,422376,1509494
+Kaolack,Kaolack,Sibassor,Dya,Kaolack,Wolof,369394,1574208
+Kaolack,Kaolack,Sibassor,Dya,Kaolack,Wolof,371222,1573314
+Kaolack,Kaolack,Sibassor,Dya,Kaolack,Wolof,369711,1571915
+Kaolack,Kaolack,Sibassor,Dya,Kaolack,Wolof,371414,1572003
+Kaolack,Kaolack,Sibassor,Dya,Kaolack,Wolof,378685,1571772
+Kaolack,Kaolack,Sibassor,Dya,Kaolack,Wolof,371264,1573237
+Kaolack,Kaolack,Sibassor,Dya,Kaolack,Wolof,377118,1572003
+Kaolack,Kaolack,Sibassor,Dya,Kaolack,Wolof,371414,1576774
+Kolda,Bounkiling,Bogal,Ndiamacouta,Kolda,Mandingue,420528,1440470
+Kolda,Sedhiou,Ndiamacouta,Diaroume,Kolda,Wolof,460629,1463357
+Kolda,Sedhiou,Ndiamacouta,Diaroume,Kolda,Wolof,458244,1472279
+Kolda,Sedhiou,Ndiamacouta,Diaroume,Kolda,Wolof,497710,1427724
+Kolda,Sedhiou,Ndiamacouta,Diaroume,Kolda,Wolof,452319,1459651
+Kolda,Sedhiou,Diaroume,Diaroume,Kolda,Wolof,439480,1449779
+Kolda,Sedhiou,Diaroume,Diaroume,Kolda,Wolof,480012,1414346
+Kolda,Sedhiou,Diaroume,Diaroume,Kolda,Wolof,435793,1450187
+Kolda,Sedhiou,Bounkiling,Diaroume,Kolda,Wolof,425625,1442639
+Kolda,Sedhiou,Bounkiling,Diaroume,Kolda,Wolof,423008,1457696
+Kolda,Sedhiou,Bounkiling,Diaroume,Kolda,Wolof,419910,1460386
+Kolda,Velingara ,Bonconto,Medina Gounass,Kolda,Pulaar,632107,1441683
+Kolda,Sedhiou,Sedhiou,Djibabouya,Kolda,Mandingue,595780,1463426
+Kolda,Kolda,Dioulacolon ,Medina El Hadji,Kolda,Pulaar,515508,1405161
+Kolda,Kolda,Medina Yero Foulah,Niaming,Kolda,Wolof,525637,1471614
+Kolda,Kolda,Medina Yero Foulah,Niaming,Kolda,Wolof,543353,1473810
+Kolda,Kolda,Medina Yero Foulah,Niaming,Kolda,Wolof,539317,1461410
+Kolda,Kolda,Medina Yero Foulah,Niaming,Kolda,Wolof,524365,1473039
+Kolda,Kolda,Medina Yero Foulah,Niaming,Kolda,Wolof,536526,1463842
+Kolda,Kolda,Medina Yero Foulah,Niaming,Kolda,Wolof,536526,1471675
+Kolda,Kolda,Medina Yero Foulah,Niaming,Kolda,Wolof,533537,1470416
+Kolda,Kolda,Medina Yero Foulah,Niaming,Kolda,Wolof,530839,1461675
+Kolda,Kolda,Medina Yero Foulah,Niaming,Kolda,Wolof,531067,1463307
+Kolda,Kolda,Medina Yero Foulah,Niaming,Kolda,Wolof,522888,1474928
+Kolda,Kolda,Tankanto Escale,Salikegne,Kolda,Wolof,495304.4,1417307.8
+Kolda,Kolda,Tankanto Escale,Salikegne,Kolda,Wolof,492740,1405073
+Kolda,Kolda,Tankanto Escale,Salikegne,Kolda,Wolof,490790,1412429
+Kolda,Kolda,Dioulacolon,Salikegne,Kolda,Wolof,513703,1416359
+Kolda,Kolda,Dioulacolon,Salikegne,Kolda,Wolof,526240,1402096
+Kolda,Kolda,Dioulacolon,Salikegne,Kolda,Wolof,517407,1401833
+Kolda,Kolda,Dioulacolon,Salikegne,Kolda,Wolof,527968,1405064
+Kolda,Kolda,Dioulacolon,Salikegne,Kolda,Wolof,525629,1404540
+Kolda,Kolda,Dioulacolon,Salikegne,Kolda,Wolof,531476,1409531
+Kolda,Kolda,Medina El Hadji,Salikegne,Kolda,Wolof,507349,1402213
+Kolda,Sedhiou,Diaroume,Sedhiou I,Kolda,Wolof,432693,1437844
+Kolda,Sedhiou,Diaroume,Sedhiou I,Kolda,Wolof,437158,1428564
+Kolda,Sedhiou,Diaroume,Sedhiou I,Kolda,Wolof,430653,1434707
+Kolda,Sedhiou,Diaroume,Sedhiou I,Kolda,Wolof,430109,1437429
+Kolda,Sedhiou,Bounkiling,Sedhiou I,Kolda,Wolof,424399.1,1441452.3
+Kolda,Sedhiou,Djiende,Sedhiou I,Kolda,Wolof,440540,1425462
+Kolda,Sedhiou,Bambaly,Sedhiou I,Kolda,Wolof,424773,1426290
+Kolda,Sedhiou,Djiredji,Sedhiou I,Kolda,Wolof,421213,1415378
+Kolda,Sedhiou,Djiredji Ba,Sedhiou I,Kolda,Wolof,416219,1425092
+Kolda,Sedhiou,Commune de Sedhiou,Sedhiou I,Kolda,Wolof,457508,1443006
+Kolda,Sedhiou,Kolibantang,Sedhiou II,Kolda,Wolof,473699,1415597
+Kolda,Sedhiou,Kolibantang,Sedhiou II,Kolda,Wolof,481459,1414191
+Kolda,Sedhiou,Kolibantang,Sedhiou II,Kolda,Wolof,468484,1420776
+Kolda,Sedhiou,Kolibantang,Sedhiou II,Kolda,Wolof,476666,1414933.8
+Kolda,Sedhiou,Kolibantang,Sedhiou II,Kolda,Wolof,470467,1418636
+Kolda,Sedhiou,Sansamba,Sedhiou II,Kolda,Wolof,483889,1436936
+Kolda,Sedhiou,Sansamba,Sedhiou II,Kolda,Wolof,483889,1436936
+Kolda,Sedhiou,Sansamba,Sedhiou II,Kolda,Wolof,413108.3,1415683.7
+Kolda,Sedhiou,Commune de Marsassoum,Sedhiou II,Kolda,Wolof,393504.8,1418837.7
+Kolda,Sedhiou,Sakar ,Sedhiou II,Kolda,Wolof,467823,1423609
+Thies,Mbour,Mbour,Mbour (Commune),Mbour,Wolof,288086.6,1594029.4
+Thies,Mbour,Mbour,Mbour (Commune),Mbour,Wolof,289087.6,1594030.4
+Thies,Mbour,Mbour,Mbour (Commune),Mbour,Wolof,289088.6,1594031.4
+Thies,Mbour,Mbour,Mbour (Commune),Mbour,Wolof,288089.6,1594032.4
+Thies,Mbour,Mbour,Mbour (Commune),Mbour,Wolof,289990.6,1594033.4
+Thies,Mbour,Mbour,Mbour (Commune),Mbour,Wolof,288091.6,1594034.4
+Thies,Mbour,Mbour,Mbour (Commune),Mbour,Mandingue,288092.6,1594035.4
+Thies,Mbour,Mbour,Mbour (Commune),Mbour,Pulaar,288093.6,1594036.4
+Thies,Mbour,Mbour,Mbour (Commune),Mbour,Pulaar,288094.6,1594037.4
+Thies,Mbour,Mbour,Mbour (Commune),Mbour,Pulaar,288095.6,1594038.4
+Thies,Mbour,Sindia,Malicounda,Mbour,Wolof,292467,1595519
+Thies,Mbour,Sindia,Malicounda,Mbour,Wolof,288097.6,1594040.4
+Tambacounda,Goudiry,Boyguel,koussan,Tambacounda,Pulaar,735406,1566619
+Tambacounda,Goudiry,Boyguel,koussan,Tambacounda,Pulaar,723347,1544557
+Tambacounda,Goudiry,Boyguel,koussan,Tambacounda,Pulaar,764512,1585104
+Tambacounda,Goudiry,Boyguel,koussan,Tambacounda,Pulaar,755887,1559298
+Tambacounda,Goudiry,Boyguel,koussan,Tambacounda,Pulaar,756874,1545899
+Tambacounda,Goudiry,Boyguel,koussan,Tambacounda,Pulaar,758294,1560004
+Tambacounda,Goudiry,Boyguel,koussan,Tambacounda,Pulaar,761125,1559537
+Tambacounda,Goudiry,Boyguel,koussan,Tambacounda,Pulaar,776058,1563787
+Tambacounda,Goudiry,Boyguel,koussan,Tambacounda,Pulaar,759383,1566668
+Tambacounda,Goudiry,Boyguel,koussan,Tambacounda,Pulaar,753359,1567775
+Tambacounda,Goudiry,Bala,Bala,Tambacounda,Pulaar,697982,1550568
+Tambacounda,Goudiry,Boyguel,Boyguel,Tambacounda,Pulaar,725348,1561200
+Tambacounda,Goudiry,Bala,Bala,Tambacounda,Pulaar,714312,1553884
+Tambacounda,Goudiry,Bala,Bala,Tambacounda,Pulaar,711312,1553884
+Tambacounda,Goudiry,Bala,Bala,Tambacounda,Pulaar,702416,1543852
+Tambacounda,Goudiry,Bala,Bala,Tambacounda,Pulaar,712396,1527859
+Tambacounda,Goudiry,Bala,Bala,Tambacounda,Pulaar,719396,1528859
+Tambacounda,Goudiry,Bala,Bala,Tambacounda,Pulaar,714396,1598859
+Tambacounda,Goudiry,Bala,Bala,Tambacounda,Pulaar,712396,1528859
+Tambacounda,Goudiry,Bala,Bala,Tambacounda,Pulaar,684435,1535898
+Tambacounda,Goudiry,Missirah,Koar,Tambacounda,Soninke,660401,1505526
+Tambacounda,Goudiry,Missirah,Missirah,Tambacounda,Soninke,664918,1524367
+Tambacounda,Goudiry,Missirah,Netteboulou,Tambacounda,Soninke,660679,1495548
+Tambacounda,Goudiry,Bala,Koar,Tambacounda,Soninke,685454,1526297
+Tambacounda,Goudiry,Bala,Bala,Tambacounda,Soninke,682792,1537087
+Tambacounda,Goudiry,Bala,Koar,Tambacounda,Soninke,673319,1539134
+Tambacounda,Goudiry,Bala,Koar,Tambacounda,Soninke,651245,1479184
+Tambacounda,Goudiry,Bala,Koar,Tambacounda,Soninke,659589,1533700
+Tambacounda,Goudiry,Bala,Koar,Tambacounda,Soninke,659548,1498614
+Tambacounda,Goudiry,Bala,Koar,Tambacounda,Soninke,654893,1533309
+Dioubel,Mbacke,Ndame,Touba  mosquee,Touba,wolof,405779,1638029
+Dioubel,Mbacke,Ndame,Touba  mosquee,Touba,wolof,406071,1643593
+Dioubel,Mbacke,Ndame,Touba  mosquee,Touba,wolof,410987,1637537
+Dioubel,Mbacke,Ndame,Touba  mosquee,Touba,wolof,391087,1636537
+Dioubel,Mbacke,Ndame,Touba  mosquee,Touba,wolof,406151,1643751
+Dioubel,Mbacke,Ndame,Touba  mosquee,Touba,wolof,382358,1633292
+Dioubel,Mbacke,Ndame,Touba  mosquee,Touba,wolof,386144,1629152
+Dioubel,Mbacke,Ndame,Touba  mosquee,Touba,wolof,399779,1638029
+Dioubel,Mbacke,Ndame,Touba  mosquee,Touba,wolof,406151,1643751
+Dioubel,Mbacke,Ndame,Touba  mosquee,Touba,wolof,398987,1621537
+Ziguinchor,Bignona,Niamone,Bignona,Ziguinchor,Diola,357974,1408727
+Ziguinchor,Bignona,Suelle,Bignona,Ziguinchor,Diola,360742,1424346
+Ziguinchor,Bignona,Suelle,Bignona,Ziguinchor,Diola,395575,1455519
+Ziguinchor,Bignona,Sindian,Bignona,Ziguinchor,Diola,372929,1429446
+Ziguinchor,Bignona,Oulampane,Bignona,Ziguinchor,Diola,399099,1433229
+Ziguinchor,Bignona,Oulampane,Bignona,Ziguinchor,Diola,396382,1408727
+Ziguinchor,Bignona,Oulampane,Bignona,Ziguinchor,Diola,400272,1440750
+Ziguinchor,Bignona,Commune,Bignona,Ziguinchor,Diola,351974,1408727
+Ziguinchor,Bignona,Commune,Bignona,Ziguinchor,Mandingue,391099,1433229
+Ziguinchor,Bignona,Diouloulou,Diannah,Ziguinchor,Mandingue,326090.6,1442910.8
+Ziguinchor,Bignona,Diouloulou,Diannah,Ziguinchor,Mandingue,319881,1449202
+Ziguinchor,Bignona,Diouloulou,Diannah,Ziguinchor,Mandingue,322743,1450702
+Ziguinchor,Bignona,Diouloulou,Diannah,Ziguinchor,Mandingue,325054,1453215
+Ziguinchor,Bignona,Kaffountine ,Diannah,Ziguinchor,Mandingue,314137,1435150
+Ziguinchor,Bignona,Diouloulou,Diannah,Ziguinchor,Mandingue,331724,1434531
+Ziguinchor,Bignona,Kaffountine,Diannah,Ziguinchor,Mandingue,314866,1441693
+Ziguinchor,Bignona,Kaffountine,Diannah,Ziguinchor,Mandingue,338724,1434531
+Ziguinchor,Bignona,Kaffountine,Diannah,Ziguinchor,Mandingue,336278,1434531
+Ziguinchor,Bignona,Niamone ,Diannah,Ziguinchor,Mandingue,359101,1402747
+Ziguinchor,Bignona,Mlomp,Tendieme,Ziguinchor,Diola,334207,1418361
+Ziguinchor,Bignona,Mlomp,Tendieme,Ziguinchor,Diola,340476,1408991
+Ziguinchor,Bignona,Commune,Tendieme,Ziguinchor,Diola,346272,1402735
+Ziguinchor,Bignona,Balingor,Tendieme,Ziguinchor,Diola,353626.1,1411568.1
+Ziguinchor,Bignona,Diegoune,Tendieme,Ziguinchor,Diola,348607,1414133
+Ziguinchor,Bignona,Mangagoulack,Tendieme,Ziguinchor,Diola,343272,1402735
+Ziguinchor,Bignona,Kharthiack,Tendieme,Ziguinchor,Diola,331753,1421497
+Ziguinchor,Bignona,Kagnobon,Tendieme,Ziguinchor,Diola,343764,1422723
+Ziguinchor,Bignona,Tenghory,Tendieme,Ziguinchor,Diola,360372,1419846
+Ziguinchor,Bignona,Suelle,Tendieme,Ziguinchor,Diola,353488,1425986
+Ziguinchor,Bignona,Niamone,Bignona,Ziguinchor,Diola,359037,1407187
+Thies,Thies,Thies,Thies,Thies,Français,292713,1635950
+Thies,Thies,Thies,Thies,Thies,Français,292714,1635951
+Thies,Thies,Thies,Thies,Thies,Français,292715,1635952
+Thies,Thies,Thies,Thies,Thies,Français,292716,1635953
+Thies,Thies,Thies,Thies,Thies,Français,292717,1635954
+Thies,Thies,Thies,Thies,Thies,Français,292718,1635955
+Thies,Thies,Thies,Thies,Thies,Français,292719,1635956
+Thies,Thies,Thies,Thies,Thies,Français,292720,1635957
+Thies,Thies,Thies,Thies,Thies,Français,292721,1635958
+Thies,Thies,Thies,Thies,Thies,Français,292722,1635959
+Thies,Thies,Thies,Thies,Thies,Français,292723,1635960
+Thies,Thies,Thies,Thies,Thies,Français,292724,1635961
+Thies,Thies,Thies,Thies,Thies,Français,292725,1635962
+Thies,Thies,Thies,Thies,Thies,Français,292726,1635963
+Thies,Thies,Thies,Thies,Thies,Français,292727,1635964
+Thies,Thies,Thies,Thies,Thies,Français,292728,1635965
+Thies,Thies,Thies,Thies,Thies,Français,292729,1635966
+Thies,Thies,Thies,Thies,Thies,Français,292730,1635967
+Thies,Thies,Thies,Thies,Thies,Français,292731,1635968
+Thies,Thies,Thies,Thies,Thies,Français,292732,1635969
+Thies,Thies,Thies,Thies,Thies,Français,292733,1635970
+Thies,Thies,Thies,Thies,Thies,Français,292734,1635971
+Thies,Thies,Thies,Thies,Thies,Français,292735,1635972
+Thies,Thies,Thies,Thies,Thies,Français,292736,1635973
+Thies,Thies,Thies,Thies,Thies,Français,292737,1635974
+Thies,Thies,Thies,Thies,Thies,Français,292738,1635975
+Thies,Thies,Thies,Thies,Thies,Français,292739,1635976
+Thies,Thies,Thies,Thies,Thies,Français,292740,1635977
+Thies,Thies,Thies,Thies,Thies,Français,292741,1635978
+Thies,Thies,Thies,Thies,Thies,Français,292742,1635979
+Kolda,Madina Yero Foulah,Fafacourou,Fafacourou,Kolda,Poular,547885,1443806
+Kolda,Madina Yero Foulah,Fafacourou,Fafacourou,Kolda,Poular,539113,1441248
+Kolda,Madina Yero Foulah,Ndorna,Bignarabe ,Kolda,Poular,519138.0000,1437338.0000
+Kolda,Madina Yero Foulah,Ndorna,Bignarabe ,Kolda,Poular,505015,1439853
+Kolda,Madina Yero Foulah,Ndorna,Bignarabe ,Kolda,Poular,512686,1428656
+Kolda,Madina Yero Foulah,Ndorna,Bignarabe ,Kolda,Poular,507876,1433522
+Kolda,Madina Yero Foulah,Ndorna,Ndorna,Kolda,Poular,503854,1464493
+Sedhiou ,Goudoump,Simbandi,Niagha,Kolda,Poular,476106,1411091
+Sedhiou ,Goudoump,Simbandi,Niagha,Kolda,Poular,479082,1407178
+Sedhiou ,Goudoump,Simbandi,Niagha,Kolda,Poular,470875.2000,1404570.2000
+Sedhiou ,Goudoump,Simbandi,Niagha,Kolda,Poular,468409.0000,1404127.0000
+Sedhiou ,Goudoump,Simbandi,Niagha,Kolda,Poular,466926,1403770
+Sedhiou ,Goudoump,Simbandi,Niagha,Kolda,Poular,466125.0000,1402901.0000
+Sedhiou ,Goudoump,Commune Tanaff,Commune Tanaff,Kolda,Poular,453578,1398271
+Sedhiou ,Goudoump,Simbandi Brassou,Bagher,Kolda,Poular,453122,1399647
+Sedhiou ,Goudoump,Simbandi Brassou,Dioudaubou,Kolda,Poular,452817.0000,1402196.0000
+Sedhiou ,Goudoump,Simbandi Brassou,Dioudaubou,Kolda,Poular,447878.0000,1405300.0000
+Kolda,Madina Yero Foulah,Niaming,Kerewane,Kolda,Poular,420065.0000,1461881.0000
+Kolda,Madina Yero Foulah,Niaming,Kerewane,Kolda,Poular,482440.0000,1439524.0000
+Kolda,Madina Yero Foulah,Niaming,Commune Pata,Kolda,Poular,506724.0000,1484421.0000
+Kolda,Madina Yero Foulah,Niaming,Commune Pata,Kolda,Poular,505884.8000,1486195.7000
+Kolda,Madina Yero Foulah,Niaming,Kerewane,Kolda,Poular,509176.0000,1483953.0000
+Kolda,Madina Yero Foulah,Niaming,Kerewane,Kolda,Poular,499460,1488954
+Kolda,Madina Yero Foulah,Niaming,Kerewane,Kolda,Poular,519255,1481618
+Kolda,Madina Yero Foulah,Niaming,Kerewane,Kolda,Poular,425863,1469545
+Kolda,Madina Yero Foulah,Fafacourou,Badiong,Kolda,Poular,562654,1464632
+Kolda,Madina Yero Foulah,Fafacourou,Badiong,Kolda,Poular,569145,1457937
+Kolda,Kolda,Dioulacolon,G. Yero Bocar,Kolda,Poular,502108,1433536
+Kolda,Kolda,Dioulacolon,G. Yero Bocar,Kolda,Poular,514680,1430753
+Kolda,Kolda,Dioulacolon,Medina Elhadji,Kolda,Poular,514297,1401916
+Kolda,Madina Yero Foulah,Mampatim ,Coumbacara,Kolda,Poular,552066,1411161
+Kolda,Madina Yero Foulah,Mampatim ,Coumbacara,Kolda,Poular,562502,1407779
+Kolda,Madina Yero Foulah,Mampatim ,Coumbacara,Kolda,Poular,548172.0000,1409974.0000
+Kolda,Madina Yero Foulah,Mampatim ,Coumbacara,Kolda,Poular,468938,1459939
+Kolda,Madina Yero Foulah,Mampatim ,Dialambere,Kolda,Poular,552947,1421509
+Kolda,Madina Yero Foulah,Mampatim ,Dialambere,Kolda,Poular,552947,1421509
+Kolda,Madina Yero Foulah,Mampatim ,,Kolda,Poular,542975,1402916
+Kolda,Kolda Commune,Kolda Commune,,Kolda,Poular,447112.0000,1559159.0000
+Kolda,Kolda Commune,Kolda Commune,,Kolda,Poular,497594,1429227
+Kolda,Madina Yero Foulah,Niaming,Dinguiraye,Kolda,Poular,532406.0000,1466510.0000
+Kolda,Madina Yero Foulah,Ndorna ,Ndorna,Kolda,Poular,495014,1455372
+Kolda,Madina Yero Foulah,Ndorna ,Ndorna,Kolda,Poular,489949.0000,1455606.0000
+Kolda,Madina Yero Foulah,Ndorna ,Ndorna,Kolda,Poular,474599,1467483
+Kolda,Madina Yero Foulah,Ndorna ,Bourouco ,Kolda,Poular,586594,1445680
+Kolda,Madina Yero Foulah,Ndorna ,Bourouco ,Kolda,Poular,491798,1408203
+Kolda,Madina Yero Foulah,Ndorna ,Bourouco ,Kolda,Poular,501377,1459941
+Kolda,Madina Yero Foulah,Ndorna ,Bourouco ,Kolda,Poular,533290,1471143
+Kolda,Madina Yero Foulah,Niaming ,Kerewane ,Kolda,Poular,503832,1485209
+Kaffrine,Mbirkilane,Keur Mbouky,Touba Mbella,Kaolack,Poular,421959.0000,1572300.0000
+Kaffrine,Mbirkilane,Keur Mbouky,Touba Mbella,Kaolack,Poular,430148,1563965
+Kaffrine,Mbirkilane,Keur Mbouky,Touba Mbella,Kaolack,Poular,431562,1561898
+Kaffrine,Mbirkilane,Keur Mbouky,Touba Mbella,Kaolack,Poular,422623,1575065
+Kaffrine,Mbirkilane,Keur Mbouky,Touba Mbella,Kaolack,Poular,428352,1564893
+Kaffrine,Mbirkilane,Keur Mbouky,Touba Mbella,Kaolack,Poular,421615,1576701
+Kaffrine,Mbirkilane,Keur Mbouky,Touba Mbella,Kaolack,Poular,417662,1579052
+Kaffrine,Mbirkilane,Keur Mbouky,Touba Mbella,Kaolack,Poular,432540,1561502
+Kaffrine,Kaffrine,Gniby,Boullel,Kaolack,Poular,458967,1587403
+Kaffrine,Kaffrine,Gniby,Boullel,Kaolack,Poular,488565.0000,1411560.0000
+Kaffrine,Kaffrine,Gniby,Boullel,Kaolack,Poular,441575,1578989
+Kaffrine,Kaffrine,Gniby,Boullel,Kaolack,Poular,434219.0000,1447033.0000
+Kaffrine,Kaffrine,Gniby,Boullel,Kaolack,Poular,430876.0000,1582601.0000
+Kaffrine,Kaffrine,Gniby,Boullel,Kaolack,Poular,342775,1431962
+Kaffrine,Kaffrine,Gniby,Boullel,Kaolack,Poular,433034,1578089
+Kaffrine,Kaffrine,Gniby,Boullel,Kaolack,Poular,450890,1592793
+Saint-Louis,Podor,Salnde ,Mbolo Birane,Fouta,Poular,626824,1776092
+Saint-Louis,Podor,Salnde ,Mbolo Birane,Fouta,Poular,503334,1762719
+Saint-Louis,Podor,Commune ,Mboumba,Fouta,Poular,605288.0000,1790407.0000
+Saint-Louis,Podor,Cas-cas,Doumga Lao,Fouta,Poular,575486.0000,1810260.0000
+Saint-Louis,Podor,Commune ,Aere Lao,Fouta,Poular,572766,1813296
+Saint-Louis,Podor,Cas-cas,Doumga Lao,Fouta,Poular,690505.0000,1712269.0000
+Saint-Louis,Podor,Commune ,Walalde,Fouta,Poular,585059,1825056
+Saint-Louis,Podor,Cas-cas,Doumga Lao,Fouta,Poular,579572.0000,1825631.0000
+Saint-Louis,Podor,Cas-cas,Madina Ndiathbe,Fouta,Poular,581954,1813828
+Saint-Louis,Podor,Gamadji ,Gamadji ,Fouta,Poular,547078.0000,1823910.0000
+Saint-Louis,Podor,Gamadji ,Gamadji ,Fouta,Poular,645761.0000,1767878.0000
+Saint-Louis,Podor,Gamadji ,Gamadji ,Fouta,Poular,547406.0000,1827632.0000
+Saint-Louis,Podor,Gamadji ,Gamadji ,Fouta,Poular,401657.8000,1626289.7000
+Saint-Louis,Podor,Commune ,Ndioum,Fouta,Poular,601713,1784475
+Saint-Louis,Podor,Gamadji ,Gamadji ,Fouta,Poular,273915.0000,1607299.0000
+Saint-Louis,Podor,Commune ,Guede Chantier,Fouta,Poular,526230,1829323
+Saint-Louis,Podor,Gamadji ,Guede Village,Fouta,Poular,515839.0000,1827173.0000
+Saint-Louis,Podor,Commune ,Niandane,Fouta,Poular,500850,1834152
+Saint-Louis,Podor,Thile Boubacar,Ndiayene Pendao,Fouta,Poular,500554.0000,1823055.0000
+Saint-Louis,Podor,Thile Boubacar,Fanaye ,Fouta,Poular,476101.8000,1826738.7000
+Saint-Louis,Podor,Thile Boubacar,Fanaye ,Fouta,Poular,485330.0000,1821566.0000
+Saint-Louis,Podor,Thile Boubacar,Fanaye ,Fouta,Poular,502345.0000,1823090.0000
+Saint-Louis,Podor,Thile Boubacar,Fanaye ,Fouta,Poular,476073.0000,1828687.0000
+Matam,Matam,Commune ,Matam,Fouta,Poular,686834,1731850
+Matam,Matam,Agnam-civol,Orefonde ,Fouta,Poular,636290,1774453
+Matam,Matam,Agnam-civol,Orefonde ,Fouta,Poular,641812,1779650
+Matam,Matam,Agnam-civol,Orefonde ,Fouta,Poular,635949,1774419
+Matam,Matam,Agnam-civol,Dabiya,Fouta,Poular,659018.0000,1781926.0000
+Matam,Matam,Agnam-civol,Orefonde ,Fouta,Poular,680054,1725896
+Matam,Matam,Agnam-civol,Dabiya,Fouta,Poular,660560,1784477
+Matam,Matam,Agnam-civol,Dabiya,Fouta,Poular,659954,1777986
+Matam,Matam,Agnam-civol,Dabiya,Fouta,Poular,656185.0000,1783532.0000
+Matam,Matam,Agnam-civol,Agnam,Fouta,Poular,648582,1781999
+Matam,Bakel,Horkordiere,Orefonde ,Fouta,Poular,756599.0000,1650716.0000
+Matam,Bakel,Horkordiere,Orefonde ,Fouta,Poular,722935,1670849
+Matam,Bakel,Horkordiere,Orefonde ,Fouta,Poular,737050,1678662
+Matam,Bakel,Horkordiere,Dabia,Fouta,Poular,748015,1663917
+Matam,Bakel,Commune ,Orefonde ,Fouta,Poular,747143.0000,1669735.0000
+Matam,Bakel,Horkordiere,Dabia,Fouta,Poular,742889.0000,1660204.0000
+Matam,Bakel,Ouro Sidy,Dabia,Fouta,Poular,701050,1693288
+Matam,Bakel,Commune ,Dabia,Fouta,Poular,696077,1713392
+Matam,Bakel,Ouro Sidy,Ouro Sidy,Fouta,Poular,718126,1713254
+Ziguinchor,Ziguinchor,Niaguis,Niaguis,Ziguinchor,Diola,366010,1388177
+Ziguinchor,Ziguinchor,Niaguis,Niaguis,Ziguinchor,Diola,368602,1386341
+Ziguinchor,Ziguinchor,Niaguis,Niaguis,Ziguinchor,Diola,368246,1389640
+Ziguinchor,Ziguinchor,Niaguis,Niaguis,Ziguinchor,Diola,372806,1389312
+Ziguinchor,Ziguinchor,Niaguis,Niaguis,Ziguinchor,Diola,376169.0000,1390616.0000
+Ziguinchor,Ziguinchor,Niaguis,Adeane ,Ziguinchor,Diola,378646.0000,1391377.0000
+Ziguinchor,Ziguinchor,Niaguis,Adeane ,Ziguinchor,Diola,383629.0000,1392614.0000
+Ziguinchor,Ziguinchor,Niaguis,Adeane ,Ziguinchor,Diola,359101,1402747
+Ziguinchor,Ziguinchor,Niaguis,Adeane ,Ziguinchor,Diola,389498,1395959
+Ziguinchor,Ziguinchor,Niaguis,Boutoupa Camaracounda,Ziguinchor,Diola,365417,1377673
+Ziguinchor,Ziguinchor,Niaguis,Adeane,Ziguinchor,Mandingue,393956.0000,1392371.0000
+Ziguinchor,Goudomp,Djibanar,Kaour,Ziguinchor,Mandingue,397093,1391505
+Ziguinchor,Goudomp,Djibanar,Kaour,Ziguinchor,Mandingue,400985.0000,1389434.0000
+Ziguinchor,Goudomp,Djibanar,Kaour,Ziguinchor,Mandingue,399128,1384593
+Ziguinchor,Goudomp,Djibanar,Djibanar,Ziguinchor,Mandingue,366202.0000,1387128.0000
+Ziguinchor,Goudomp,Djibanar,Djibanar,Ziguinchor,Mandingue,408243.0000,1389796.0000
+Ziguinchor,Goudomp,Djibanar,Djibanar,Ziguinchor,Mandingue,471939,1414205
+Ziguinchor,Goudomp,Djibanar,Simbandi Balante,Ziguinchor,Mandingue,415699.0000,1388288.0000
+Ziguinchor,Goudomp,Djibanar,Simbandi Balante,Ziguinchor,Mandingue,420414.0000,1386356.0000
+Ziguinchor,Goudomp,Djibanar,Simbandi Balante,Ziguinchor,Mandingue,428713.0000,1384901.0000
+Tambacounda,Bakel,Keniaba,Sadatou,Tambacounda,Poular,799899,1510905
+Tambacounda,Bakel,Keniaba,Sadatou,Tambacounda,Poular,441407,1420443
+Tambacounda,Bakel,Keniaba,Sadatou,Tambacounda,Poular,795762.0000,1488124.0000
+Tambacounda,Bakel,Keniaba,Sadatou,Tambacounda,Poular,796887,1499528
+Tambacounda,Bakel,Keniaba,Sadatou,Tambacounda,Poular,814214.0000,1501252.0000
+Tambacounda,Bakel,Keniaba,Sadatou,Tambacounda,Poular,716322.0000,1607497.0000
+Tambacounda,Bakel,Keniaba,Sadatou,Tambacounda,Mandinka,821966.0000,1506434.0000
+Tambacounda,Bakel,Keniaba,Sadatou,Tambacounda,Mandinka,818084.0000,1515800.0000
+Tambacounda,Bakel,Keniaba,Sadatou,Tambacounda,Mandinka,819416,1458928
+Tambacounda,Bakel,Toumboura,Kenieba,Tambacounda,Poular,793398,1536172
+Tambacounda,Bakel,Toumboura,Kenieba,Tambacounda,Poular,801146.0000,1541835.0000
+Tambacounda,Bakel,Toumboura,Kenieba,Tambacounda,Poular,800997,1545854
+Tambacounda,Bakel,Medina foulbe,Kenieba,Tambacounda,Mandinka,813846.8000,1533131.7000
+Tambacounda,Bakel,Medina foulbe,Kenieba,Tambacounda,Poular,812572.0000,1544509.0000
+Tambacounda,Bakel,Medina foulbe,Kenieba,Tambacounda,Mandinka,817647,1560363
+Tambacounda,Bakel,Sinthiou Fissa,Belle,Tambacounda,Poular,782787.0000,1573983.0000
+Tambacounda,Bakel,Sinthiou Fissa,Belle,Tambacounda,Poular,731017,1668258
+Tambacounda,Bakel,Sinthiou Fissa,Belle,Tambacounda,Poular,605394.0000,1516933.0000
+Tambacounda,Bakel,Sinthiou Fissa,Belle,Tambacounda,Poular,776878,1584388
+Tambacounda,Bakel,Medina foulbe,Kenieba,Tambacounda,Soninke,806188,1562028
+Tambacounda,Bakel,Gathiary,Kenieba,Tambacounda,Soninke,812676,1583610
+Tambacounda,Bakel,Gathiary,Kenieba,Tambacounda,Soninke,818981.0000,1571557.0000
+Tambacounda,Bakel,Gathiary,Kenieba,Tambacounda,Soninke,811260,1588384
+Tambacounda,Bakel,Gathiary,Kenieba,Tambacounda,Soninke,806333,1591220
+Tambacounda,Bakel,Sinthiou Fissa,Belle,Tambacounda,Soninke,798123.0000,1566557.0000
+Tambacounda,Bakel,Sinthiou Fissa,Belle,Tambacounda,Soninke,799843.0000,1569264.0000
+Tambacounda,Bakel,Gabou,Moudery,Tambacounda,Soninke,778963.7000,1628561.9000
+Tambacounda,Bakel,Gabou,Moudery,Tambacounda,Soninke,784858.0000,1627296.0000
+Tambacounda,Bakel,Ballou,Moudery,Tambacounda,Soninke,798657.0000,1617174.0000
+Tambacounda,Bakel,Gabou,Moudery,Tambacounda,Poular,766602.0000,1629810.0000
+Tambacounda,Bakel,Gabou,Moudery,Tambacounda,Poular,776034.0000,1640263.0000
+Tambacounda,Bakel,Gabou,Moudery,Tambacounda,Poular,772686.0000,1636155.0000
+Tambacounda,Bakel,Gabou,Moudery,Tambacounda,Poular,781686,1633817
+Tambacounda,Bakel,Gabou,Moudery,Tambacounda,Poular,769988.0000,1645502.0000
+Tambacounda,Bakel,Gabou,Moudery,Tambacounda,Poular,762750,1637546
+Tambacounda,Bakel,Gabou,Moudery,Tambacounda,Poular,761874,1636620
+Tambacounda,Bakel,Gabou,Moudery,Tambacounda,Poular,765793,1627708
+Tambacounda,Bakel,Gabou,Moudery,Tambacounda,Poular,767389,1630419
+Tambacounda,Bakel,Gabou,Moudery,Tambacounda,Poular,775325,1623531
+Tambacounda,Bakel,Gabou,Moudery,Tambacounda,Soninke,773600,1641258
+Tambacounda,Bakel,Gabou,Moudery,Tambacounda,Soninke,769322.0000,1639637.0000
+Tambacounda,Bakel,Gabou,Moudery,Tambacounda,Soninke,802057.0000,1597453.0000
+Tambacounda,Bakel,Gabou,Moudery,Tambacounda,Soninke,772776.0000,1642139.0000
+Tambacounda,Bakel,Ballou,Moudery,Tambacounda,Soninke,797649,1631161
+Tambacounda,Bakel,Ballou,Moudery,Tambacounda,Soninke,785615,1640488
+Tambacounda,Bakel,Ballou,Moudery,Tambacounda,Soninke,795865.0000,1634123.0000
+Tambacounda,Bakel,Moudery,Moudery,Tambacounda,Soninke,772704,1657112
+Tambacounda,Bakel,Moudery,Moudery,Tambacounda,Soninke,767098,1649693
+Tambacounda,Bakel,Diawara Commune,,Tambacounda,Soninke,764130.0000,1662397.0000
+Ziguinchor,Bignona,Sindian,Suelle,Ziguinchor,Fogny,357082,1422547
+Ziguinchor,Bignona,Sindian,Suelle,Ziguinchor,Fogny,357082,1422547
+Ziguinchor,Bignona,Sindian,Suelle,Ziguinchor,Fogny,355624,1429620
+Ziguinchor,Bignona,Sindian,Suelle,Ziguinchor,Fogny,354437,1433333
+Ziguinchor,Bignona,Tendouck,Diegoune,Ziguinchor,Fogny,351476,1419246
+Ziguinchor,Bignona,Tendouck,Karthiack,Ziguinchor,Fogny,340748,1422679
+Ziguinchor,Bignona,Tendouck,Mangagoulack,Ziguinchor,Fogny,347264,1404932
+Ziguinchor,Bignona,Sindian,Suelle,Ziguinchor,Fogny,367383,1436189
+Ziguinchor,Bignona,Sindian,Suelle,Ziguinchor,Fogny,368248,1436843
+Ziguinchor,Bignona,Sindian,Suelle,Ziguinchor,Fogny,366744,1434272
+Ziguinchor,Bignona,Sindian,Sindian,Ziguinchor,Fogny,377258,1431936
+Ziguinchor,Bignona,Sindian,Sindian,Ziguinchor,Fogny,367189,1429858
+Ziguinchor,Bignona,Tenghory,Tenghory,Ziguinchor,Fogny,401945,1447900
+Ziguinchor,Bignona,Tenghory,Tenghory,Ziguinchor,Fogny,370104,1420576
