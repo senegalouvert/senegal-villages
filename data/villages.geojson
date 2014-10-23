@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Thies",
+        "departement": "Thies",
+        "arrondissement": "Thies",
+        "commune": "Thies",
+        "coordination": "Dakar",
+        "langue": "Wolof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1636408.1,
+          292242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Dakar",
+        "departement": "Dakar",
+        "arrondissement": "Dakar",
+        "commune": "Dakar",
+        "coordination": "Dakar",
+        "langue": "Wolof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1630724,
+          236286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Dakar",
+        "departement": "Dakar",
+        "arrondissement": "Dakar",
+        "commune": "Dakar",
+        "coordination": "Dakar",
+        "langue": "Wolof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1630724,
+          236286
+        ]
+      }
+    }
+  ]
+}

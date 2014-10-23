@@ -1,4 +1,4 @@
-region,departement,arrondissement,commune,coordination,langue,X,Y,lat,long
+region,departement,arrondissement,commune,coordination,langue,latitude, longitude
 Thies,Thies,Thies,Thies,Dakar,Wolof,292242,1636408.1
 Dakar,Dakar,Dakar,Dakar,Dakar,Wolof,236286,1630724
 Dakar,Dakar,Dakar,Dakar,Dakar,Wolof,236286,1630724
